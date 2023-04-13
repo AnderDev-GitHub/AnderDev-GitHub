@@ -4,6 +4,9 @@ Sou Anderson Leite. Estou em uma jornada como desenvolvedor e a cada dia me alim
 
 Acredito que a programação seja uma área que oferece infinitas possibilidades para aqueles que são apaixonados, assim como eu, por tecnologia. A programação é um universo fascinante onde ideias podem ganhar vida através da codificação, e estou disposto a explorar o máximo de meu potencial.
 
+
+<img alt="Layout" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" alt="pixel-jeff-chill-mario-2023" width="100%" height="300"/>
+
 ____
 
 ## Siga-me: 👍
