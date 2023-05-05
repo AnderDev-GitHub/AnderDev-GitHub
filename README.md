@@ -1,6 +1,8 @@
 ### Olá Dev 👋💻
 
-Sou Anderson Leite. Estou em uma jornada como desenvolvedor e a cada dia me alimento dessa paixão pela tecnologia!
+Seja bem-vindo! Meu nome é Anderson (anderdev), fique a vontade :)
+
+Estou em uma jornada como Desenvolvedor Web Front-end em busca do Fullstack a cada dia me alimentando dessa paixão pela tecnologia!
 
 Acredito que a programação seja uma área que oferece infinitas possibilidades para aqueles que são apaixonados, assim como eu, por tecnologia. A programação é um universo fascinante onde ideias podem ganhar vida através da codificação, e estou disposto a explorar o máximo de meu potencial.
 
