@@ -24,15 +24,15 @@ ____
 
 ## Algumas das tecnologias e ferramentas com as quais trabalho: ⚡
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat&logo=windows&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-ffffff?style=flat&logo=visual-studio-code&logoColor=blue)
+![Windows](https://img.shields.io/badge/Windows-00adef?style=flat&logo=windows&logoColor=white)
 
 ____
 
