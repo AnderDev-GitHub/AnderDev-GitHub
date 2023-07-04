@@ -36,5 +36,5 @@ ____
 
 ____
 
-[![Anderson Leite Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=anderdev-GitHub)](https://github.com/anuraghazra/github-readme-stats)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anderdev-GitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Anderson Leite Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=anderdev-GitHub&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anderdev-GitHub&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
