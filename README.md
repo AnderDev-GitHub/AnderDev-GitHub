@@ -14,9 +14,9 @@ ____
 ## Siga-me: 🤙
 
 
-[![Meu Twitter](https://img.shields.io/twitter/follow/anderdev_?style=social)](https://twitter.com/anderdev_)
 [![Meu Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andersondiasleite)
 [![Meu Instagram](https://img.shields.io/badge/Instagram-E4405F?flat&logo=instagram&logoColor=white)](https://www.instagram.com/_anderdev/)
+[![Meu Twitter](https://img.shields.io/twitter/follow/anderdev_?style=social)](https://twitter.com/anderdev_)
 [![Meu GitHub](https://img.shields.io/github/followers/anderdev-GitHub?label=follow&style=social)](https://github.com/anderdev-GitHub)
 
 ____
