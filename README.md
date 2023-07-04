@@ -11,7 +11,7 @@ Acredito que a programação seja uma área que oferece infinitas possibilidades
 
 ____
 
-## Siga-me: 👍
+## Siga-me: 🤙
 
 
 [![Meu Twitter](https://img.shields.io/twitter/follow/anderdev_?style=social)](https://twitter.com/anderdev_)
