@@ -4,7 +4,7 @@ Seja bem-vindo! Fique a vontade :)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376&ssl=1" />
+<img align="right" width="300" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376&ssl=1"/>
 
 Estou em uma jornada como Desenvolvedor Web Front-end em busca do Fullstack a cada dia me alimentando dessa paixão pela tecnologia!
 
