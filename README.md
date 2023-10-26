@@ -13,7 +13,7 @@ Acredito que a programação seja uma área que oferece infinitas possibilidades
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Trabalho Freelancer" src="https://media.licdn.com/dms/image/D4D0BAQFSEbmwaeNAUw/company-logo_200_200/0/1683928976687?e=1696464000&v=beta&t=Xxv5KDe8zyK7BlwOrLwmPhQVtuuDPw95mnDtzItL4NA"/>](https://www.linkedin.com/company/liberoprofessionista/mycompany/)
+[<img align="left" height="94px" width="94px" alt="Trabalho Freelancer" src="https://media.licdn.com/dms/image/D4D0BAQFSEbmwaeNAUw/company-logo_200_200/0/1683928976687?e=1706140800&v=beta&t=_BhhaNUNisZye9DilPbVz97BVM-75NKXWb94CoxfoZs"/>](https://www.linkedin.com/company/liberoprofessionista/mycompany/)
 
 **Desenvolvedor Front-End (Jr)** \
 [**Freelancer**](https://www.linkedin.com/company/liberoprofessionista/mycompany/) • Full-time \
@@ -21,7 +21,7 @@ Linguagens & Tecnologias: `HTML5`, `CSS3`, `JavaScript`, `Git`, `GitHub`, `NodeJ
 Projetos em destaque: [API de Pedidos - Hamburgueria](https://github.com/anderdev-GitHub/api-simulada-hamburgueria), [Landing Page Gamer](https://anderdev-github.github.io/landing-page-gamer)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Dev Club" src="https://media.licdn.com/dms/image/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/0/1659810941517?e=1696464000&v=beta&t=H4wDnovLEmHzPUqJhcZUqtxBNQ7oggohhHHpxD6FEhE"/>](https://www.linkedin.com/school/dev-club-devs/)
+[<img align="left" height="94px" width="94px" alt="Dev Club" src="https://media.licdn.com/dms/image/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/0/1659810941517?e=1706140800&v=beta&t=2nfhWTUuFrW0NVnJXnH-U5HI1g8GlQmzvSbX9q4ihMg"/>](https://www.linkedin.com/school/dev-club-devs/)
 
 **Orientador** \
 [**Dev Club**](https://www.linkedin.com/school/dev-club-devs/) • Trabalho Voluntário \
@@ -36,7 +36,6 @@ Chega mais, para uma descrição mais detalhada da minha experiência de trabalh
 
 [![Meu Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andersondiasleite)
 [![Meu Instagram](https://img.shields.io/badge/Instagram-E4405F?flat&logo=instagram&logoColor=white)](https://www.instagram.com/_anderdev/)
-[![Meu Twitter](https://img.shields.io/twitter/follow/anderdev_?style=social)](https://twitter.com/anderdev_)
 [![Meu GitHub](https://img.shields.io/github/followers/anderdev-GitHub?label=follow&style=social)](https://github.com/anderdev-GitHub)
 
 
