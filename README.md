@@ -18,7 +18,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Desenvolvedor Front-End (Jr)** \
 [**Freelancer**](https://www.linkedin.com/company/liberoprofessionista/mycompany/) • Full-time \
 Linguagens & Tecnologias: `HTML5`, `CSS3`, `JavaScript`, `Git`, `GitHub`, `NodeJS`, `Python`\
-Projetos em destaque: [API de Pedidos - Hamburgueria](https://github.com/anderdev-GitHub/api-simulada-hamburgueria), [Landing Page Gamer](https://anderdev-github.github.io/landing-page-gamer)
+Projetos em destaque: [API de Pedidos - Hamburgueria](https://github.com/anderdev-GitHub/api-simulada-hamburgueria), [Landing Page Gamer](https://anderdev-github.github.io/landing-page-gamer), [Landing Page Loja com Chatbot](https://github.com/JessiAraujo/projeto-chatbot-match-adidas-loja)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Dev Club" src="https://media.licdn.com/dms/image/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/0/1659810941517?e=1706140800&v=beta&t=2nfhWTUuFrW0NVnJXnH-U5HI1g8GlQmzvSbX9q4ihMg"/>](https://www.linkedin.com/school/dev-club-devs/)
@@ -26,7 +26,7 @@ Projetos em destaque: [API de Pedidos - Hamburgueria](https://github.com/anderde
 **Orientador** \
 [**Dev Club**](https://www.linkedin.com/school/dev-club-devs/) • Trabalho Voluntário \
 Linguagens & Tecnologias: `HTML5`, `CSS3`, `JavaScript`, `Git`, `GitHub`, `NodeJS`\
-Projetos em destaque: [App Web Previsão do Tempo](https://anderdev-github.github.io/App-Tempo-Real), [Landing Page Gamer](https://anderdev-github.github.io/landing-page-gamer)
+Projetos em destaque: [App Web Previsão do Tempo](https://anderdev-github.github.io/App-Tempo-Real), [App Web Conversor de Moedas consumindo API](https://anderdev-github.github.io/Conversor-de-moedas/)
 <br/>
 <br/>
 
@@ -36,20 +36,31 @@ Chega mais, para uma descrição mais detalhada da minha experiência de trabalh
 
 [![Meu Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andersondiasleite)
 [![Meu Instagram](https://img.shields.io/badge/Instagram-E4405F?flat&logo=instagram&logoColor=white)](https://www.instagram.com/_anderdev/)
+[![Meu Tik Tok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_anderdev)
 [![Meu GitHub](https://img.shields.io/github/followers/anderdev-GitHub?label=follow&style=social)](https://github.com/anderdev-GitHub)
-
 
 ## **Tecnologias e Ferramentas:** ⚡🧰
 
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![NPM](https://img.shields.io/npm/v/npm.svg?logo=npm)
+![Yarn](https://img.shields.io/badge/Yarn-20232A?style=flat&logo=yarn&logoColor=2C8EBB)
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=yellow)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-ffffff?style=flat&logo=visual-studio-code&logoColor=blue)
 ![Windows](https://img.shields.io/badge/Windows-00adef?style=flat&logo=windows&logoColor=white)
+
+## **Formação Acadêmica:** 📚
+![DevClub](https://img.shields.io/badge/Dev-Club-430098?style=for-the-badge&logo=square&logoColor=green) 
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+![Mastertech](https://img.shields.io/badge/Mastertech-ff0000?style=for-the-badge&logo=monster&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 
 ## **GitHub Estatísticas:** 📈
