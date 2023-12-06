@@ -59,6 +59,7 @@ Chega mais, para uma descrição mais detalhada da minha experiência de trabalh
 ## **Formação Acadêmica:** 📚
 ![DevClub](https://img.shields.io/badge/Dev-Club-430098?style=for-the-badge&logo=square&logoColor=green) 
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![Mastertech](https://img.shields.io/badge/Mastertech-ff0000?style=for-the-badge&logo=monster&logoColor=white)
 ![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
