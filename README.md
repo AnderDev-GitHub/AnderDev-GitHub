@@ -17,7 +17,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor Front-End (Jr)** \
 [**Freelancer**](https://www.linkedin.com/company/liberoprofessionista/mycompany/) • Full-time \
-Linguagens & Tecnologias: `HTML5`, `CSS3`, `JavaScript`, `Git`, `GitHub`, `NodeJS`, `Python`\
+
 Projetos em destaque: [API de Pedidos - Hamburgueria](https://github.com/anderdev-GitHub/api-simulada-hamburgueria), [Landing Page Gamer](https://anderdev-github.github.io/landing-page-gamer), [Landing Page Loja com Chatbot](https://github.com/JessiAraujo/projeto-chatbot-match-adidas-loja)
 <br/>
 
@@ -25,7 +25,7 @@ Projetos em destaque: [API de Pedidos - Hamburgueria](https://github.com/anderde
 
 **Orientador** \
 [**Dev Club**](https://www.linkedin.com/school/dev-club-devs/) • Trabalho Voluntário \
-Linguagens & Tecnologias: `HTML5`, `CSS3`, `JavaScript`, `Git`, `GitHub`, `NodeJS`\
+
 Projetos em destaque: [App Web Previsão do Tempo](https://anderdev-github.github.io/App-Tempo-Real), [App Web Conversor de Moedas consumindo API](https://anderdev-github.github.io/Conversor-de-moedas/)
 <br/>
 <br/>
