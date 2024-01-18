@@ -47,6 +47,7 @@ Chega mais, para uma descrição mais detalhada da minha experiência de trabalh
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=white)
+![Nodemon](https://img.shields.io/badge/nodemon-76D04B?style=flat-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![NPM](https://img.shields.io/npm/v/npm.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-20232A?style=flat&logo=yarn&logoColor=2C8EBB)
